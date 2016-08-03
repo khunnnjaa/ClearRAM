@@ -8,13 +8,13 @@ This code will clear your ram memory cache, buffer and swap space on Linux.
 Simple follow this step.
 
 Pull this repo first !
-		git pull https://github.com/HakaseShounen/ClearRAM
+	git pull https://github.com/HakaseShounen/ClearRAM
 
 Go to repo directory
-		cd ClearRAM
+	cd ClearRAM
 
 Add to bashrc
-		cat code.sh >> ~/.bashrc
+	cat code.sh >> ~/.bashrc
 
 Done
 
