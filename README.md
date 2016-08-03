@@ -4,22 +4,27 @@ Clear RAM Memory Cache, Buffer and Swap Space on Linux
 ## Synopsis
 This code will clear your ram memory cache, buffer and swap space on Linux.
 
+
 ## How to add to my bashrc ?
-Simple follow this step.
+Simply follow this tep.
 
 Pull this repo first !
+
 	git pull https://github.com/HakaseShounen/ClearRAM
 
 Go to repo directory
+
 	cd ClearRAM
 
 Add to bashrc
+
 	cat code.sh >> ~/.bashrc
 
-Done
+Done !!
 
 ## Screenshot
-Coming soon!
+Coming Soon !
+
 
 ## Copyright
 Copyright (c) 2016 Hakase Shounen
