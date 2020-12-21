@@ -10,7 +10,7 @@ Simply follow this tep.
 
 Pull this repo first !
 
-	git pull https://github.com/HakaseShounen/ClearRAM
+	git pull https://github.com/khunnnjaa/ClearRam
 
 Go to repo directory
 
