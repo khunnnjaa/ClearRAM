@@ -14,7 +14,7 @@ Pull this repo first !
 
 Go to repo directory
 
-	cd ClearRAM
+	cd ClearRam
 
 Add to bashrc
 
@@ -37,4 +37,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 ## Contact
-Feel free to contact me at hakaseshounen@gmail.com
+Feel free to contact me at khunnnjaa.tk@example.com
