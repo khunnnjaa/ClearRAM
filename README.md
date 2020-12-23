@@ -10,11 +10,11 @@ Simply follow this tep.
 
 Pull this repo first !
 
-	git pull https://github.com/khunnnjaa/ClearRam
+	git pull https://github.com/khunnnjaa/ClearRAM
 
 Go to repo directory
 
-	cd ClearRam
+	cd ClearRAM
 
 Add to bashrc
 
