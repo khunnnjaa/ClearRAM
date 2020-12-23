@@ -1,6 +1,6 @@
-# Written by Khunnnjaa
+# Written by khunnnjaa
 # August 04, 2016
-# Feel free to contact me at: khunnnjaa@outlook.co.th
+# Feel free to contact me at: khunnnjaa@example.com
 #
 # References:
 # http://unix.stackexchange.com/questions/269078/executing-a-bash-script-function-with-sudo
